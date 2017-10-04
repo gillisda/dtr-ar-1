@@ -1,5 +1,6 @@
 {
   "name": "dtr-push",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "2f31efad",
+  "type": "ionic-angular",
+  "integrations": {}
 }

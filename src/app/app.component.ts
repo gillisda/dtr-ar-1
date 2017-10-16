@@ -20,14 +20,14 @@ export class MyApp {
       statusBar.styleDefault();
       splashScreen.hide();
     });
- 
+
     firebase.initializeApp({
-      apiKey: "AIzaSyBV44BvvSO5qRU2Ytw1PtIJB2Yml2z9X4c",
-      authDomain: "augmented-voice-167112.firebaseapp.com",
-      databaseURL: "https://augmented-voice-167112.firebaseio.com",
-      projectId: "augmented-voice-167112",
-      storageBucket: "augmented-voice-167112.appspot.com",
-      messagingSenderId: "855884425303"
+      apiKey: "AIzaSyCisCF4kN7bS_k6w_R-41RSArZGVgqc1pI",
+      authDomain: "dtr-app-1.firebaseapp.com",
+      databaseURL: "https://dtr-app-1.firebaseio.com",
+      projectId: "dtr-app-1",
+      storageBucket: "dtr-app-1.appspot.com",
+      messagingSenderId: "490982861769"
     });
     
     platform.ready().then(() => {
